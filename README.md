@@ -4,7 +4,7 @@ The programming problems are completed using Python and Java. The problems solve
 
 
 #### Data structures 
-  - Arrays (2D/3D)
+  - Arrays and Dynamic Programming
   - Linked Lists/Reverse Linked Lists (Space vs Time), 
   - Hash Tables
   - Stacks
