@@ -15,6 +15,6 @@ The programming problems are completed using Python and Java. The problems solve
 #### [Searching](https://github.com/mubarekabdela/Problem-Solving/tree/master/Searching)
 #### [String Manipulation](https://github.com/mubarekabdela/Problem-Solving/tree/master/StringManipulation)
 #### [Recursion/Recursive strings](https://github.com/mubarekabdela/Problem-Solving/tree/master/Recursion)
-#### [Backtracking](https://github.com/mubarekabdela/Problem-Solving/tree/master/Backtracking)
+#### [Backtracking](https://github.com/mubarekabdela/Problem-Solving/tree/master/BackTracking)
 #### [Graphs/Graph traversal](https://github.com/mubarekabdela/Problem-Solving/tree/master/Graphs)
 ####  [Miscellaneous](https://github.com/mubarekabdela/Problem-Solving/tree/master/Miscellaneous)
