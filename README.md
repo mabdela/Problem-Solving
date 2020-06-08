@@ -11,8 +11,13 @@ The programming problems are completed using the Python and the Java. The proble
   · Queues
   · Heaps
   · Binary Trees
+  
 - Object Oriented Design
+
 - Sorting
+
 - Searching
+
 - Recursion/Recursive strings
+
 - Graphs/Graph traversal
