@@ -4,7 +4,7 @@ The programming problems are completed using Python and Java. The problems solve
 
 
 #### Data structures 
-  - Arrays (2D/3D) and Dynamic Programming (https://github.com/mubarekabdela/Problem-Solving/tree/master/ArraysAndDynamicProgramming)
+  - [Arrays (2D/3D) and Dynamic Programming](https://github.com/mubarekabdela/Problem-Solving/tree/master/ArraysAndDynamicProgramming)
   - Linked Lists/Reverse Linked Lists (Space vs Time), 
   - Hash Tables
   - Stacks
